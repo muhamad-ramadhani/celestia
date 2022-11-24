@@ -94,7 +94,7 @@ source $HOME/.bash_profile
 
 ## 5. Req Faucet
 Untuk membuat validator terlebih dahulu, kalian perlu mendanai dompet kalian dengan token testnet.
-Untuk mengisi ulang dompet kalian, join [celestia discord server](https://discord.gg/neBFH8Se) dan masuk ke:
+Untuk mengisi ulang dompet kalian, join [celestia discord server](https://discord.com/invite/YsnTPcSfWQ) dan masuk ke:
 - **#faucet** untuk request test tokens
 
 request faucet via command:
