@@ -30,7 +30,7 @@ Manual guides:
 
 ## 1. Setup Otomotasi
 ```
-wget -O celestia.sh https://raw.githubusercontent.com/kj89/testnet_manuals/main/celestia/celestia.sh && chmod +x celestia.sh && ./celestia.sh
+wget -O celestia.sh https://raw.githubusercontent.com/muhamad-ramadhani/celestia/main/celestia.sh && chmod +x celestia.sh && ./celestia.sh
 ```
 
 ## 2. Post installation
